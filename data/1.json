@@ -1,0 +1,44 @@
+{
+  "name": "Hero of Ukraine, President Zelensky #1",
+  "description": "Heroes aren't born, they're made. President Zelensky wasn't born to be a politician but became one to help his country fight systemic corruption. Then on February 24th, 2022 when Russia invaded Ukraine, President Zelensky has become the world’s greatest heroes in a real-life struggle between good and evil.",
+  "external_url": "https://twitter.com/ArtGala_eth",
+  "Discord_url": "https://discord.gg/R5WmFT2Y",
+  "image": "ipfs://newuri/1.png",
+  "dna": "43c4fb5bb11f02746643b2e25a263198a82d3fab",
+  "edition": 1448,
+  "date": 1650980896909,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "gradient with ukraine flag"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "rpg"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "skin"
+    },
+    {
+      "trait_type": "Body wear",
+      "value": "military uniform"
+    },
+    {
+      "trait_type": "Face accessories",
+      "value": "none"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "original"
+    },
+    {
+      "trait_type": "Head wear",
+      "value": "helmet with ukrainian flag"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "original"
+    }
+  ]
+}
